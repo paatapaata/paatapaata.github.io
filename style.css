@@ -39,13 +39,13 @@ a {
 	 width:100%;
 	 font-weight: bold;
 	 font-size: 28px;color:#466565;
-	 margin-top: -70px ! important;
+	 margin-top: -75px ! important;
     }
 .mMaindiv {
      width: 100%;
 	 height: 6px;
      position: absolute;
-	 top: 0 !important;
+	 top:4 !important;
 	 font-weight:normal;
 	 background-color: #ffffff;
 	 z-index: 9999999999 !important;
@@ -298,10 +298,10 @@ a.teaser_button:hover {
     position: absolute; 
     color: #FFF; 
    }
-   .mcol5new, .mcol6new { 
+ /*  .mcol5new, .mcol6new { 
     position: absolute; 
     color: #FFF; 
-   }
+   }*/
      .mcol5new { 
     background: #fff; width: 25%; min-width:140px;
 	color: #000; /*#5d5d5d;*/
@@ -312,19 +312,48 @@ a.teaser_button:hover {
 	border-color:white;/*#faf5f5;*//*padding:5px 5px 5px 5px;*/
 	float:left;min-height:80%;
 }  
-.mcol6new { 
-    background: #fff; position: relative; margin-top: 2px;
+.photo {
+	display:inline-block;
+	position:relative;
+}
+.photo .text11{
+	display: block;
+	position:absolute;font-size:180%;
+	left:0;color:#fff;
+	bottom:0;text-align:center;	width:100%;
+}
+/*.photo:hover:after {
+	content: attr(title);
+	position:absolute;
+	left:0; right:0; bottom:20px;
+	z-index:1;
+	background:rgba(0,42,167,0.6);font-weight:bold;
+	color: #fff;
+	text-align: center;
+	font-size: 200%;
+	padding:5px 5px;
+	border:1px #333;
+}*/
+	.mcol6new { 
+    background: #fff; /*position: relative;*/ /*margin-top: 2px;*/
 	color:#000;margin-left:400px;
     right: 0;
 	border-style: solid;border-width:4px 4px 4px 4px;
     border-color: white;/*width:100%;*/white-space: nowrap;
    }
+.mcol7new { 
+    background: #fff; /*position: relative;*/ margin-top: 2px;
+	color:#000;margin-left:400px;/*vertical-align:top;*/
+    right: 0;
+	border-style: solid;border-width:4px 4px 4px 4px;
+    border-color: white;/*width:100%;*/white-space: nowrap;
+   }   
 .mcol6new-1 {
 	width: 30%; height: 250px;
 }
 .col2 {
     width: 300px;background: #fffccc; 
-    color: #666565;/*#000033;*/
+    color: #666565;/*#000033;*/margin-left:20px;
 	line-height: 25px;
 	font-size: 18px;
 	text-align: justify;
@@ -334,9 +363,13 @@ a.teaser_button:hover {
     }
 .col3 {
 	font-size: 17px;
-	color: #000033;margin-left: 160px;
+	color: #000033;/*margin-left: 160px;*/
 	}
-   .col4new { 
+.col31 {
+	font-size: 17px;
+	color: #000033;/*margin-left: 160px;*/
+	}
+	.col4new { 
     background: #ccc;
     width: 10%;
 	margin:2px;border-style:solid;border-width:2px 2px 2px 2px;
