@@ -1,6 +1,6 @@
 body {
 	font-family:Arial,sans-serif, Helvetica;
-    overflow:scroll;
+    overflow:scroll;overflow-x:hidden;
 }
 *{
 	padding:0.009px;
@@ -56,6 +56,9 @@ span.fas {
 	}
 
 @media (max-width: 767px) {
+	body {
+		overflow-x:hidden;
+	}
 	* {
 		margin: 0px;
 	}
@@ -159,7 +162,10 @@ color: #f70f2a;
 text-decoration: underline;
 }
 @media (max-width: 1300px) {	
-/*.mcol6new {
+body {
+		overflow-x:hidden;
+	}
+	/*.mcol6new {
 	white-space:normal;
 }*/
 
@@ -169,7 +175,10 @@ text-decoration: underline;
 }
 }
 @media (max-width: 1100px) {	
-/*.mcol6new {
+body {
+		overflow-x:hidden;
+	}
+	/*.mcol6new {
 	white-space:normal;
 }*/
 
@@ -179,28 +188,36 @@ text-decoration: underline;
 }
 }
 @media (max-width: 1000px) {	
-
+body {
+		overflow-x:hidden;
+	}
 .sur-02 {
 	width: 200px;
 	height: 125px;
 }
 }
 @media (max-width: 900px) {	
-
+body {
+		overflow-x:hidden;
+	}
 .sur-02 {
 	width: 200px;
 	height: 125px;
 }
 }
 @media (max-width: 800px) {	
-
+body {
+		overflow-x:hidden;
+	}
 .sur-02 {
 	width: 200px;
 	height: 125px;
 }
 }
 @media (max-width: 767px) {	
-
+body {
+		overflow-x:hidden;
+	}
 .mcol6new {
 	white-space: normal;/*margin-left: 0px;*/
 }
@@ -210,7 +227,10 @@ text-decoration: underline;
 }
 }
 @media (max-width: 680px) {
-.sur-02 {
+body {
+		overflow-x:hidden;
+	}
+	.sur-02 {
 	width: 120px;/*100px;*/
 	height:75px;/*62.5px;*/margin-left:-50px;
 }
@@ -234,7 +254,9 @@ text-decoration: underline;
 	}
 }
 @media (max-width: 600px) {
-	
+body {
+		overflow-x:hidden;
+	}	
 }
 
 .mogzauroba {
@@ -370,6 +392,9 @@ ul.menu-2 > li:hover > ul.menu-3 {
 		display: none;cursor: none;
 	}	
 @media (max-width: 767px) {
+	body {
+		overflow-x:hidden;
+	}
 	* {
 		margin: 0px;
 	}
@@ -412,6 +437,9 @@ ul.menu-3 > li:hover > a{
 	background-color: #849DA0;text-decoration: underline;
 }
 }
+body {
+		overflow-x:hidden;
+	}
 #pic-2 {
 	width: 70px;
 	height: 65px;
@@ -441,7 +469,7 @@ table {
 }
 body {
     font: 14px/1.5 Arial,sans-serif, Helvetica;
-    color: #000;
+    color: #000;overflow-x:hidden;
 }
 .teaser_1 {
     display: inline-block;
@@ -462,7 +490,7 @@ table {
 }
 body {
     font: 14px/1.5 Arial,sans-serif, Helvetica;
-    color: #000;
+    color: #000;overflow-x:hidden;
 }
 .teaser_2 {
 	display: inline-block;
@@ -483,7 +511,7 @@ table {
 }
 body {
 	font: 16px/1.5 Arial,sans-serif, Helvetica;
-	color: #000;
+	color: #000;overflow-x:hidden;
 }
 .teaser_button {
 	display: inline-block;
@@ -512,6 +540,9 @@ a.teaser_button:hover {
     width:1350px;
     border-top:2px solid #6678b1;
 }
+body {
+		overflow-x:hidden;
+	}
 .layout { 
     width:100%;
     margin: auto; 
