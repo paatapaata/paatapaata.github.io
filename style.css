@@ -165,7 +165,7 @@ text-decoration: underline;
 body {
 		overflow-x:hidden;
 	}
-	/*.mcol6new {
+/*.mcol6new {
 	white-space:normal;
 }*/
 
@@ -178,7 +178,7 @@ body {
 body {
 		overflow-x:hidden;
 	}
-	/*.mcol6new {
+/*.mcol6new {
 	white-space:normal;
 }*/
 
@@ -230,7 +230,7 @@ body {
 body {
 		overflow-x:hidden;
 	}
-	.sur-02 {
+.sur-02 {
 	width: 120px;/*100px;*/
 	height:75px;/*62.5px;*/margin-left:-50px;
 }
@@ -254,11 +254,13 @@ body {
 	}
 }
 @media (max-width: 600px) {
+	body {
+		overflow-x:hidden;
+	}
+}
 body {
 		overflow-x:hidden;
-	}	
-}
-
+	}
 .mogzauroba {
     width: 180px;font-family:Arial,sans-serif, Helvetica;
     float: left;font-size: 28px;font-weight:bold;
