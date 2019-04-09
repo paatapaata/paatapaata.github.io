@@ -14,7 +14,7 @@ a {
         transition-delay: 0s, 0s;
 }
 "container {
-	max-width: 750px;
+	width: 750px;
 }
 
 
@@ -67,7 +67,7 @@ span.fas {
 }
 
 span.fas {
-	display:none;/*inline-block;*//*none;*/cursor:pointer;
+	display:inline-block;/*none;*/cursor:pointer;
 }
 	
 body {
