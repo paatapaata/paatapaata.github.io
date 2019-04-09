@@ -1,4 +1,4 @@
-body {
+/*body {
 	font-family:Arial,sans-serif, Helvetica;
     overflow:scroll;overflow-x:hidden;
 }
@@ -21,7 +21,7 @@ a {
 
 .fa-bars {
 	font-size:48px;color:white; margin-left:20px;content:"done";float:left;
-}
+}*/
 
 span.fas {
 	display:inline-block;/*none;*/cursor:pointer;
