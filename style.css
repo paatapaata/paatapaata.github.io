@@ -67,7 +67,7 @@ span.fas {
 }
 
 span.fas {
-	display:inline-block;/*none;*/cursor:pointer;
+	display:none;/*inline-block;*//*none;*/cursor:pointer;
 }
 	
 body {
