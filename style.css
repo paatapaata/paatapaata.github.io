@@ -253,10 +253,16 @@ body {
 	 display:block; width:98%;text-align: center; margin: 0 0 0 0;margin-left:10px;
 	}
 }
-@media (max-width: 600px) {
+@media (max-width: 320px) {
 	body {
 		overflow-x:hidden;
 	}
+.mcol5new {
+     width:320px;border-width:0 0 0 0;text-align: center;left:6px;
+	}
+	.mcol6new {
+	 width:0px; margin-left:100%;display: none;
+	}	
 }
 body {
 		overflow-x:hidden;
