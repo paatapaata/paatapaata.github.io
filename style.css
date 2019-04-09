@@ -14,7 +14,7 @@ a {
         transition-delay: 0s, 0s;
 }
 "container {
-	width: 750px;
+	max-width: 750px;
 }
 
 
