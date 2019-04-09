@@ -219,7 +219,7 @@ body {
 		overflow-x:hidden;
 	}
 .mcol6new {
-white-space: normal;/*margin-left: 0px;*/
+	white-space: normal;/*margin-left: 0px;*/
 }
 .sur-02 {
 	width: 300px;/*160px;*/
@@ -241,7 +241,7 @@ body {
 	margin-left: 15px;
 }
 .mcol5new {
-         width:100%;*/border-width:0 0 0 0;text-align: center;left:6px;
+     width:100%;border-width:0 0 0 0;text-align: center;left:6px;
 	}
 	.mcol6new {
 	 width:0px; margin-left:100%;display: none;
@@ -251,6 +251,11 @@ body {
 	}
 	.nleft-4 {
 	 display:block; width:98%;text-align: center; margin: 0 0 0 0;margin-left:10px;
+	}
+}
+@media (max-width: 600px) {
+	body {
+		overflow-x:hidden;
 	}
 }
 body {
