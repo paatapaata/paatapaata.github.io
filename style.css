@@ -56,9 +56,6 @@ span.fas {
 	}
 
 @media (max-width: 767px) {
-	body {
-		overflow-x:hidden;
-	}
 	* {
 		margin: 0px;
 	}
