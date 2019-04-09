@@ -241,7 +241,7 @@ body {
 	margin-left: 15px;
 }
 .mcol5new {
-     max-width:320px;/*min-width:100%;*/border-width:0 0 0 0;text-align: center;left:6px;
+     width:680px;/*min-width:100%;*/border-width:0 0 0 0;text-align: center;left:6px;
 	}
 	.mcol6new {
 	 width:0px; margin-left:100%;display: none;
