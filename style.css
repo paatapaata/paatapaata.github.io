@@ -1,4 +1,4 @@
-/*body {
+body {
 	font-family:Arial,sans-serif, Helvetica;
     overflow:scroll;overflow-x:hidden;
 }
@@ -21,7 +21,7 @@ a {
 
 .fa-bars {
 	font-size:48px;color:white; margin-left:20px;content:"done";float:left;
-}*/
+}
 
 span.fas {
 	display:inline-block;/*none;*/cursor:pointer;
@@ -55,7 +55,7 @@ span.fas {
     font-size:48px;color:white; /*margin-left:20px;*/content:"done";float:left;/*margin-right: 20px;*/display:none;/*inline-block;*//*none;*/
 	}
 
-/*@media (max-width: 767px) {
+@media (max-width: 767px) {
 	body {
 		overflow-x:hidden;
 	}
@@ -64,7 +64,7 @@ span.fas {
 	}
 	.fa-bars {
 	font-size:42px;color:white; margin-left:20px;content:"done";float:left;margin-top:10px;padding: -1px 0 0px 0;
-}*/
+}
 
 span.fas {
 	display:none;/*inline-block;*//*none;*/cursor:pointer;
@@ -219,7 +219,7 @@ body {
 		overflow-x:hidden;
 	}
 .mcol6new {
-	white-space: normal;/*margin-left: 0px;*/
+white-space: normal;/*margin-left: 0px;*/
 }
 .sur-02 {
 	width: 300px;/*160px;*/
@@ -241,7 +241,7 @@ body {
 	margin-left: 15px;
 }
 .mcol5new {
-     width:680px;/*min-width:100%;*/border-width:0 0 0 0;text-align: center;left:6px;
+         width:100%;*/border-width:0 0 0 0;text-align: center;left:6px;
 	}
 	.mcol6new {
 	 width:0px; margin-left:100%;display: none;
@@ -253,9 +253,15 @@ body {
 	 display:block; width:98%;text-align: center; margin: 0 0 0 0;margin-left:10px;
 	}
 }
-@media (max-width: 600px) {
+@media (max-width: 320px) {
 	body {
 		overflow-x:hidden;
+	}
+.mcol5new {
+         width:320px;/*100%;*/*/border-width:0 0 0 0;text-align: center;left:6px;
+	}
+.mcol6new {
+	 width:0px;/* margin-left:100%;display: none;*/
 	}
 }
 body {
