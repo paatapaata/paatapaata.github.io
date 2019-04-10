@@ -253,6 +253,23 @@ body {
 	 display:block; width:98%;text-align: center; margin: 0 0 0 0;margin-left:10px;
 	}
 }
+@media (max-width: 500px) {
+	body {
+		overflow-x:hidden;
+	}
+	#mpic-2 {
+		width: 25%;
+	}
+.mcol5new {
+     width:100%;border-width:0 0 0 0;text-align: center;left:6px;
+	}
+	.mcol6new {
+	 width:0px; margin-left:100%;/*display: none;*/
+	}
+	'col2 {
+	width:94%;
+}
+}
 @media (max-width: 320px) {
 	body {
 		overflow-x:hidden;
