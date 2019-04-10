@@ -350,6 +350,9 @@ display:none;
 	.Maindiv {
 		max-width:300px;
 	}
+	.mogzauroba {
+		margin-left:30%;
+	}
 }
 .navdiv ul{
      width: 100%;
@@ -441,7 +444,7 @@ ul.menu-2 > li:hover > ul.menu-3 {
 		display: none;cursor: none;
 	}
 	.mogzauroba {
-		text-align: center;/*margin-left: 35px;*/float:right;/*display:none;*/position:absolute;margin-left:30%;
+		text-align: center;/*margin-left: 35px;*/float:right;/*display:none;*/position:absolute;margin-left:15%;
 	}
 	
 	ul.menu-3 {
