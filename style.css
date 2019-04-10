@@ -290,7 +290,11 @@ body {
     /*cursor: pointer;*/
     margin-left: 15px;display:inline-block/*none;*/
 }
-
+@media (max-width: 320px) {
+	.mogzauroba {
+		margin-left:50px;
+	}
+}
 
 
 
