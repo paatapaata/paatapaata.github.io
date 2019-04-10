@@ -781,6 +781,9 @@ body {
    	body {
 		overflow-x:hidden;
 	}
+	.Maindiv {
+		min-width: 320px;
+	}
 	.layout {
 	 position:relative;
 	}
