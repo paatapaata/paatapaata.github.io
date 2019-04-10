@@ -344,7 +344,7 @@ display:none;
 	 font-weight:normal;font-family:Arial,sans-serif, Helvetica;
 	 background-color: #ffffff;
 	 z-index: 9999999999 !important;
-	 display: inline-block; min-width: 820px;
+	 display: inline-block; /*min-width: 820px;*/
 }
 .navdiv ul{
      width: 100%;
