@@ -254,9 +254,9 @@ body {
 	}
 }
 @media (max-width: 500px) {
-	body {
+	/*body {
 		overflow-x:hidden;
-	}
+	}*/
 	#mpic-2 {
 		width: 25%;
 	}
@@ -275,7 +275,7 @@ body {
 		overflow-x:hidden;
 	}
 .mcol5new {
-     width:320px;border-width:0 0 0 0;text-align: center;left:6px;
+     width:300px;border-width:0 0 0 0;text-align: center;left:6px;
 	}
 	.mcol6new {
 	 width:0px; margin-left:100%;display: none;
