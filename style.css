@@ -319,7 +319,7 @@ ul.menu-4 > li > a:hover {
 ul.menu-3 > li:hover > ul.menu-4 {
     /*background-color: #849DA0;*/display: block;
 }
-.navdivul ul li {
+.navdiv ul li {
 display:none;
 }	
 
