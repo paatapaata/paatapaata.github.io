@@ -69,7 +69,12 @@ span.fas {
 span.fas {
 	display:inline-block;/*none;*/cursor:pointer;
 }
-	
+@media (max-width: 320px) {
+	.mogzauroba {
+		text-align: center;/*margin-left: 35px;*/float:right;/*display:none;*/position:absolute;margin-left:35%;
+		font-size:28px;
+		}
+	}
 body {
 		overflow-x:hidden;
 	}
