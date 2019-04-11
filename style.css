@@ -292,7 +292,7 @@ body {
 }
 @media (max-width: 320px) {
 	.mogzauroba {
-		margin-left:5px;
+		margin-left:150px;
 	}
 }
 
@@ -355,7 +355,7 @@ display:none;
 		max-width:300px;
 	}
 	.mogzauroba {
-		margin-left:30%;display:none;
+		margin-left:10%;
 	}
 }
 .navdiv ul{
