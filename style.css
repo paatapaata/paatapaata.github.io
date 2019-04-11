@@ -449,6 +449,7 @@ ul.menu-2 > li:hover > ul.menu-3 {
 	}
 	.mogzauroba {
 		text-align: center;/*margin-left: 35px;*/float:right;/*display:none;*/position:absolute;margin-left:35%;
+		font-size:28px;
 		}
 	
 	ul.menu-3 {
