@@ -71,7 +71,7 @@ span.fas {
 }
 @media (max-width: 320px) {
 	.mogzauroba {
-		text-align: center;/*margin-left: 35px;*/float:right;/*display:none;*/position:absolute;margin-left:35%;
+		text-align: center;/*margin-left: 35px;*/float:right;/*display:none;*/position:absolute;margin-left:25%;
 		font-size:28px;
 		}
 	}
