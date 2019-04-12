@@ -292,7 +292,7 @@ body {
 }
 @media (max-width: 320px) {
 	.mogzauroba {
-		margin-left:15px;
+		margin-left:15px;diasplay:none;
 	}
 }
 
@@ -449,7 +449,7 @@ ul.menu-2 > li:hover > ul.menu-3 {
 	}
 	.mogzauroba {
 		text-align: center;/*margin-left: 35px;*/float:right;/*display:none;*/position:absolute;margin-left:10%;
-		font-size:18px;
+		font-size:28px;
 		}
 	
 	ul.menu-3 {
