@@ -294,6 +294,9 @@ body {
 	.mogzauroba {
 		margin-left:15px;
 }
+	.col2 {
+	border-width: 0 0 0 0;
+	}
 }
 
 @media (max-width: 320px) {
