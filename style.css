@@ -297,6 +297,9 @@ body {
 	.col2 {
 	border-width: 0 0 0 0; padding: 0 0 0 0;margin-left:0px;
 	}
+	.mcol5new {
+		left:0px;
+	}
 }
 
 @media (max-width: 320px) {
