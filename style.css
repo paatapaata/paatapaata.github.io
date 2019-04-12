@@ -296,6 +296,8 @@ body {
 }
 .col2 {
 	border-width:5px 0px 5px 0px;
+	}
+}
 
 @media (max-width: 320px) {
 	.Maindiv {
